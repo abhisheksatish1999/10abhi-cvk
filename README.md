@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🔭 I’m currently pursuing Bachelor's in Computer Science and Engineering
 ### 📫 You can reach me at: [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/abhishek-satish/) [ 📧](mailto:abhisheksatish10@gmail.com)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10abhi-cvk&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10abhi-cvk&hide=html,css,php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **10abhi-cvk/10abhi-cvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
