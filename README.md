@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksatish1999&hide=html,css,php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-**10abhi-cvk/10abhi-cvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**abhisheksatish1999/abhisheksatish1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
